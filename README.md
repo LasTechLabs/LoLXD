@@ -52,8 +52,6 @@ Having [NodeJS](https://nodejs.org/) installed and added to PATH is essential.
 
 # How to install
 
-There are multiple ways to install. 
-
 **Running as a local package:**
 
 1. Download/clone this respository
@@ -62,19 +60,6 @@ There are multiple ways to install.
 
     1. Run `npm start` via command line, or
     2. Click the `run LoLXD.bat` file
-
-**Running as a global package:**
-
-1. run `npm install -g lastechlabs/lolxd` via command line
-2. run `lolxd` via command line
-
-**~~Running via NPX:~~ Not working**
-
-~~1. run `npx lastechlabs/lolxd`~~
-
-# How to use/First time setup:
-To view the GUI, run LoLXD and then navigate to http://localhost:1337 in a web browser.
-
 
 The first time you run LoLXD you will have to go through each page and enable those settings/options you prefer to use. After this those settings are saved and will only have to be re-accessed if they are reset. You do not need to keep a browser tab open after first time use.
 

@@ -1,0 +1,23 @@
+{
+  "name": "lolxd",
+  "version": "0.0.1",
+  "description": "Demo tool to fix bugs and add features in the League of Legends Client",
+  "main": "lolxd.js",
+  "bin": {
+    "lolxd": "./bin/global-index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node lolxd.js"
+  },
+  "author": "LasTech Labs",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-ws": "^5.0.2",
+    "fs-extra": "^10.0.0",
+    "lolxd-client-interface": "github:lastechlabs/lolxd-client-interface",
+    "node-fetch": "^2.6.1"
+  }
+}

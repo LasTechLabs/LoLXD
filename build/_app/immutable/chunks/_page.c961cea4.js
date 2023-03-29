@@ -1,0 +1,1 @@
+function e({params:t}){return{title:"Voice Chat - Toggle Mute Hotkey",id:4}}const o=Object.freeze(Object.defineProperty({__proto__:null,load:e},Symbol.toStringTag,{value:"Module"}));export{o as _,e as l};

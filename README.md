@@ -2,7 +2,12 @@
 
 A tool to enhance the vanilla League of Legends Client, by adding improvements and unlocking functionality.
 
-**Note:** LoLXD is a demo intended to *demonstrate* what is possible and is NOT intended as anything more. Your account may be banned as a result of use, at Riot's discretion. **Use at your own risk!**
+
+# THIS TOOL IS NO LONGER AVAILABLE
+
+Riot Games has rejected the developer application ticket for LoLXD so I have removed the client-interface package from github, this means that the tool will ***NOT BE FUNCTIONAL***. 
+
+The remainder of this Readme is preserved as-is, though attempting to download may produce unexpected results.
 
 # Demo
 
@@ -12,6 +17,8 @@ A tool to enhance the vanilla League of Legends Client, by adding improvements a
         <figcaption>Click to watch</figcaption>
     </a>
 </div>
+
+**Note:** LoLXD is a demo intended to *demonstrate* what is possible and is NOT intended as anything more. Your account may be banned as a result of use, at Riot's discretion. **Use at your own risk!**
 
 # What Improvements does LoLXD implement
 1. Language Selection & Localization
